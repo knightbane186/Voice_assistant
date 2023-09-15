@@ -9,6 +9,7 @@ const WelcomeScreen = () => {
     <Text className = "text-center font-bold text-gray-700">
       Jarvis  is to make sure that the file does not step on the channel 
       this just makes sure that everything works in the right order
+      to make sure eveything is in place for the project
     </Text>
 
 </View>
