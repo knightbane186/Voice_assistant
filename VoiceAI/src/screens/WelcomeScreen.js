@@ -8,6 +8,7 @@ const WelcomeScreen = () => {
 <View className= "space-y-2">
     <Text className = "text-center font-bold text-gray-700">
       Jarvis  is to make sure that the file does not step on the channel
+      Hello Thius is what it is basic
     </Text>
 
 </View>
