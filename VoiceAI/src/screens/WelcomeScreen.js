@@ -7,10 +7,11 @@ const WelcomeScreen = () => {
  <SafeAreaView className='flex-1 flex justify-around bg-white'>
 <View className= "space-y-2">
     <Text className = "text-center font-bold text-gray-700">
-      Jarvis  is to make sure that the file does not step on the channel
-      Hello Thius is what it is basic
+      Jarvis
     </Text>
-
+<Text className="text-center tracking-wider text-gray-700 font-semibold">
+  The future is here, powered by ai
+</Text >
 </View>
  </SafeAreaView>
   )
