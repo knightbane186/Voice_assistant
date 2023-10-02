@@ -1,5 +1,6 @@
 # AI-Voice-Assistant-React-Native
 
+
 Setting up a React Native project for cross-platform development.
 Integrating ChatGPT for natural language processing and conversation handling.
 Implementing DALL-E for image generation based on textual input.
